@@ -1,9 +1,13 @@
 # Db Banchmarker
 
+> A simple tool, written in Python, to compare the performance of SQL queries across different database services.
+
 You need create .env file, you can see "example .env"
 
 
-> $ python ./run.py
+```
+$ python ./run.py
+```
 
 ```
 Command: SELECT now()
